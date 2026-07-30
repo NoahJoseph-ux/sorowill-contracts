@@ -16,7 +16,6 @@ test_snapshots/
 
 # IDE / editor
 .idea/
-.vscode/
 *.iml
 
 # Environment / secrets
@@ -35,3 +34,7 @@ yarn-error.log*
 
 # Stellar CLI generated files
 .stellar/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
